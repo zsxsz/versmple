@@ -74,7 +74,7 @@ body {
 	opacity: 0;
 }
 
-/* JavaScript-generated raindrops */
+/* JavZSXSZript-generated raindrops */
 .rain span {
 	animation-delay: calc(-2s * var(--speed));
 }
